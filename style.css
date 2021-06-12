@@ -139,10 +139,6 @@ li {
   text-align: left;
 }
 
-.social {
-
-}
-
 .social-media {
   height: 104px;
   width: 200px;
@@ -180,5 +176,15 @@ li {
   letter-spacing: 0;
   text-align: left;
   color: #9490ff;
-  p
+}
+
+.experience-container > img {
+  height: 236px;
+  width: 327px;
+  left: 0;
+  top: 0;
+  border-radius: 0;
+  padding-top: 48px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
