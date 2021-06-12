@@ -10,7 +10,7 @@ body {
     font-family: Roboto,sans-serif;
     color: c8cdd4;
 }
-/* 
+
 .navbar header {
     position: relative;
     width: 375px;
@@ -19,7 +19,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
+/* 
 main {
     width: 375px;
     display: flex;
