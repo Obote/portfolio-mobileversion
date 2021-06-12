@@ -212,3 +212,28 @@ li {
   padding-left: 24px;
   padding-right: 24px;
 }
+
+.stack-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 40px;
+  width: 312px;
+  left: 0;
+  top: 357px;
+  border-radius: 0;
+  padding-top: 24px;
+  align-items: center;
+}
+
+.stack-container li {
+    font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+
+}
