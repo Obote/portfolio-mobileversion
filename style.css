@@ -1,34 +1,69 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: auto;
-    height: auto;
-    font-family: Roboto,sans-serif;
-    color: c8cdd4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  font-family: Roboto, sans-serif;
+  color: #c8cdd4;
 }
 
 .navbar header {
-    position: relative;
-    width: 375px;
-    height: 92px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  position: relative;
+  width: 375px;
+  height: 92px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #191765;
 }
 
 main {
-    width: 375px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #191765;
-    background-image: url(./assets/images/eclipes.png);
-    background-repeat: no-repeat;
-    background-position-x: -180px;
-    background-position-y: 40px;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #191765;
+  background-image: url(./assets/images/eclipes.png);
+  background-repeat: no-repeat;
+  background-position-x: -180px;
+  background-position-y: 40px;
+}
 
+header a {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.hamburger {
+  background-color: #191765;
+  border: #191765;
+  padding-right: 24px;
+}
+
+.hamburger :hover {
+  background-color: #e5e5e5;
+}
+
+.hamburger:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px #7d73fc;
+}
+
+.hamburger:active {
+  background-color: #e5e5e5;
+  border-color: #acb7c3;
+  color: #acb7c3;
 }
