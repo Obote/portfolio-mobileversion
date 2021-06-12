@@ -30,7 +30,7 @@ main {
   background-image: url(./assets/images/eclipes.png);
   background-repeat: no-repeat;
   background-position-x: -200px;
-  }
+}
 
 header a {
   font-family: Roboto, sans-serif;
@@ -76,7 +76,7 @@ header a {
   letter-spacing: 0.3700000047683716px;
   text-align: center;
   color: #7d73fc;
- }
+}
 
 .profile-container h2 {
   font-family: Roboto, sans-serif;
@@ -101,4 +101,40 @@ header a {
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 40px;
+}
+
+.skill-stack {
+  height: 462.1505432128906px;
+  width: 303px;
+  left: 12px;
+  top: 235px;
+  border-radius: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.skill-stack h3 {
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #9490ff;
+}
+
+li {
+  list-style: none;
+}
+
+.skill-stack li {
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0;
+  text-align: left;
 }
