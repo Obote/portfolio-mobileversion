@@ -29,9 +29,8 @@ main {
   background-color: #191765;
   background-image: url(./assets/images/eclipes.png);
   background-repeat: no-repeat;
-  background-position-x: -180px;
-  background-position-y: 40px;
-}
+  background-position-x: -200px;
+  }
 
 header a {
   font-family: Roboto, sans-serif;
@@ -77,7 +76,7 @@ header a {
   letter-spacing: 0.3700000047683716px;
   text-align: center;
   color: #7d73fc;
-}
+ }
 
 .profile-container h2 {
   font-family: Roboto, sans-serif;
