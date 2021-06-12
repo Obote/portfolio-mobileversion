@@ -227,13 +227,36 @@ li {
 }
 
 .stack-container li {
-    font-family: Inter;
-font-size: 15px;
-font-style: normal;
-font-weight: 500;
-line-height: 20px;
-letter-spacing: 0em;
-text-align: left;
-color: #fff;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #fff;
+}
 
+.experience-container button {
+  height: 48px;
+  width: 89px;
+  left: 0;
+  top: 421px;
+  border-radius: 0;
+  background-color: #7d73fc;
+  margin-top: 24px;
+  margin-left: 24px;
+  margin-bottom: 24px;
+  border: none;
+}
+
+.project-button {
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #edecff;
 }
