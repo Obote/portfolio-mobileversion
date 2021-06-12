@@ -67,3 +67,26 @@ header a {
   border-color: #acb7c3;
   color: #acb7c3;
 }
+
+.profile-container h1 {
+  font-family: Roboto, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0.3700000047683716px;
+  text-align: center;
+  color: #7d73fc;
+}
+/* 
+.profile-container h2 {
+    font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: center;
+color: #EDECFF;
+
+} */
