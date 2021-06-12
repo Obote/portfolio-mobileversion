@@ -140,6 +140,10 @@ li {
 }
 
 .social {
+
+}
+
+.social-media {
   height: 104px;
   width: 200px;
   left: 87.5px;
@@ -148,7 +152,7 @@ li {
   display: flex;
   flex-direction: column;
   align-items: center;
-  }
+}
 
 .social-media-icon {
   height: 40px;
@@ -159,7 +163,22 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  color: #FFFFFF;
-  ;
+  color: #fff;
+  padding-top: 48px;
 }
 
+.experience-title {
+  padding-top: 83.85px;
+}
+
+.experience-title h2 {
+  font-family: Roboto, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #9490ff;
+  p
+}
