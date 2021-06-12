@@ -221,7 +221,7 @@ li {
   justify-content: space-between;
   height: 40px;
   width: 312px;
-    border-radius: 0;
+  border-radius: 0;
   padding-top: 24px;
   align-items: center;
 }
@@ -262,10 +262,9 @@ li {
 }
 
 .border-right {
-    border-right: 1px solid white;
-    
+  border-right: 1px solid white;
 }
 
 .padding-right {
-    padding-right: 20px;
+  padding-right: 20px;
 }
