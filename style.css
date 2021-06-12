@@ -164,6 +164,8 @@ li {
 }
 
 .experience-title {
+  align-self: start;
+  margin-left: 20px;
   padding-top: 83.85px;
 }
 
@@ -219,9 +221,7 @@ li {
   justify-content: space-between;
   height: 40px;
   width: 312px;
-  left: 0;
-  top: 357px;
-  border-radius: 0;
+    border-radius: 0;
   padding-top: 24px;
   align-items: center;
 }
@@ -233,7 +233,7 @@ li {
   font-weight: 500;
   line-height: 20px;
   letter-spacing: 0;
-  text-align: left;
+  text-align: center;
   color: #fff;
 }
 
@@ -259,4 +259,13 @@ li {
   letter-spacing: 0.03em;
   text-align: center;
   color: #edecff;
+}
+
+.border-right {
+    border-right: 1px solid white;
+    
+}
+
+.padding-right {
+    padding-right: 20px;
 }
