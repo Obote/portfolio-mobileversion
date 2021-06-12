@@ -7,7 +7,7 @@ This project is a mobile version of my portfolio. It will be continous project t
 Project day 3 of Microserve bootcamp, module 1
 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app.png)
 
 
 ## Built With
