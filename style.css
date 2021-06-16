@@ -270,8 +270,8 @@ li {
   
 }
 form {
-  margin: 0 auto;
-  width: 80%;
+  padding-left: 24px;
+  padding-right: 24px;
   padding-top: 1em;
   padding-bottom: 2em;
   display: flex;
@@ -313,4 +313,27 @@ form > button {
 
 form > button:hover {
   background-color: #503458;
+}
+
+.contact-form h3 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+  align-items: center;
+  text-align: center;
+  color: #9390FF;
+}
+
+.contact-form p {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #F5F5FF;
+  padding-left: 24px;
+  padding-right: 24px;
 }
